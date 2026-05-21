@@ -1,0 +1,24 @@
+ul{
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+  font-family: monospace;
+  
+}
+
+h1 {
+  font-family: monospace;
+}
+
+p {
+  font-family: monospace;
+}
+
+img {
+  height: 200px;
+  justify: flex-start;
+}
+
+a {
+  color: darkblue;
+}

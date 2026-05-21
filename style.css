@@ -1,0 +1,23 @@
+ul{
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+  font-family: monospace;
+  
+  
+}
+
+a{
+  color:gray;
+}
+
+h1 {
+  font-family: monospace;
+  color: red;
+
+}
+
+.highlight {
+  background-color: yellow;
+}
+
